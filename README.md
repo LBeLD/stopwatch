@@ -1,4 +1,4 @@
-Stop watch wit lap counter.
+Stop watch with lap counter.
 
 HTML, CSS, Bootstrap and jQuery:
 
